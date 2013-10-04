@@ -1,7 +1,7 @@
-Feature: Logging in to Twitter
+Feature: Search and item on Amazon
 
   @javascript
-  Scenario: Log into twitter
+  Scenario: Search for items
     Given I visit Amazon homepage
     When I search for "BDD BOOKS"
     Then I see the result of my search

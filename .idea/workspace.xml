@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27fa24bd-5e5b-4c95-8954-7bc7b5cf63dc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/search_a_flight.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/features/search_a_flight.feature" afterPath="$PROJECT_DIR$/features/Search_an_item.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BDT_Workshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_helper.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test_helper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="24" selection-start="139" selection-end="139" vertical-scroll-proportion="0.064">
+            <state line="3" column="24" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -43,10 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search_a_flight.feature" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/search_a_flight.feature">
+      <file leaf-file-name="Search_an_item.feature" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/Search_an_item.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="4" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
+            <state line="3" column="28" selection-start="78" selection-end="78" vertical-scroll-proportion="0.064">
               <folding />
             </state>
           </provider>
@@ -88,6 +85,7 @@
         <option value="$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
         <option value="$PROJECT_DIR$/features/search_a_flight.feature" />
         <option value="$PROJECT_DIR$/features/support/env.rb" />
+        <option value="$PROJECT_DIR$/features/Search_an_item.feature" />
       </list>
     </option>
   </component>
@@ -508,13 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/search_a_flight.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="4" selection-start="1806" selection-end="1806" vertical-scroll-proportion="0.0">
@@ -531,7 +522,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="24" selection-start="139" selection-end="139" vertical-scroll-proportion="0.064">
+        <state line="3" column="24" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/Search_an_item.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="28" selection-start="78" selection-end="78" vertical-scroll-proportion="0.064">
           <folding />
         </state>
       </provider>
