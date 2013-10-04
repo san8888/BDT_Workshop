@@ -21,6 +21,11 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'capybara'
+gem 'cucumber-rails'
+gem "database_cleaner"
+gem 'selenium-webdriver'
+require 'database_cleaner'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
