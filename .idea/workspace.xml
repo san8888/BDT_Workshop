@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27fa24bd-5e5b-4c95-8954-7bc7b5cf63dc" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/features/search_a_flight.feature" afterPath="$PROJECT_DIR$/features/Search_an_item.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/Search_an_item.feature" afterPath="$PROJECT_DIR$/features/Search_an_item.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/step_definitions/my_steps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
     </list>
     <ignored path="BDT_Workshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,19 +31,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="26" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0">
+            <state line="27" column="26" selection-start="617" selection-end="617" vertical-scroll-proportion="0.576">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Search_an_item.feature" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Search_an_item.feature" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/Search_an_item.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="28" selection-start="78" selection-end="78" vertical-scroll-proportion="0.064">
+            <state line="0" column="55" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -52,7 +52,7 @@
       <file leaf-file-name="my_steps.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/my_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="24" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+            <state line="10" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,9 +82,9 @@
       <list>
         <option value="$PROJECT_DIR$/test/test_helper.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
         <option value="$PROJECT_DIR$/features/search_a_flight.feature" />
         <option value="$PROJECT_DIR$/features/support/env.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
         <option value="$PROJECT_DIR$/features/Search_an_item.feature" />
       </list>
     </option>
@@ -499,23 +499,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/my_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="4" selection-start="1806" selection-end="1806" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="26" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -527,9 +513,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/my_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/features/Search_an_item.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="78" selection-end="78" vertical-scroll-proportion="0.064">
+        <state line="0" column="55" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="26" selection-start="617" selection-end="617" vertical-scroll-proportion="0.576">
           <folding />
         </state>
       </provider>
